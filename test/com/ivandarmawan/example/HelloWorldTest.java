@@ -21,7 +21,7 @@ public class HelloWorldTest {
     
     @Before
     public void setUp() {
-        System.out.println("* HelloWorldTest: Before method setUP by Jali() by hasta");
+        System.out.println("* HelloWorldTest: Before method setUP by Jali() by hasta() by yusfil ()");
         helloWorldInstance = new HelloWorld();
     }
     
