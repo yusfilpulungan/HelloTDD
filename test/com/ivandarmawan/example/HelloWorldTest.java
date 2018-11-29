@@ -21,7 +21,7 @@ public class HelloWorldTest {
     
     @Before
     public void setUp() {
-        System.out.println("* HelloWorldTest: Before method setUP by Jali()");
+        System.out.println("* HelloWorldTest: Before method setUP by Jali() by hasta");
         helloWorldInstance = new HelloWorld();
     }
     
@@ -31,7 +31,7 @@ public class HelloWorldTest {
     }
 
     /**
-     * Test of formMessage method, of class HelloWorld.
+     * Test of formMessage method, of class HelloWorld.aasdasdasdasd
      */
     //hastaa ini
     @Test
